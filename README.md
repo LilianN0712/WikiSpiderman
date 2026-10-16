@@ -5,7 +5,7 @@
 
 # Fonctionalités
 
-- page de presentation avec différentes pages
+- page de présentation avec différentes pages
 - Images et tableaux
 - Navigation entre les pages
 
