@@ -26,3 +26,5 @@
 4.L'histoire de [Tom Holland](https://github.com/LilianN0712/WikiSpiderman/wiki/Spider%E2%80%90Man-Tom-Holland)
 
 5.L'hisoire de [Miles Morales](https://github.com/LilianN0712/WikiSpiderman/wiki/Miles-Morales-LE-GOAT)
+
+<img width="235" height="302" alt="image" src="https://github.com/user-attachments/assets/92212469-18e3-43b7-8f4e-631af1ff4121" />
